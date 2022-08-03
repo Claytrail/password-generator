@@ -8,11 +8,13 @@ html, body {
 #generate-title {
     margin: 0;
     color: white;
+    font-size: 2.5rem;
 }
 
 #random-title {
     margin: 0;
     color: #4ADF86;
+    font-size: 4rem;
 }
 
 p {
